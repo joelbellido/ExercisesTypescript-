@@ -1,0 +1,2 @@
+# ExercisesTypescript-
+exercises basic
