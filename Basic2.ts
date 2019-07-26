@@ -40,7 +40,6 @@ class Auto extends Transporte {
         super(speed,formaDeMovilidad);
         this.cantidadDePuertas=cantidadDePuertas;
 
-
     }
 
     getSpeed() {

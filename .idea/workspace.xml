@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a229027-9031-440d-8331-d3a12b668acb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Basic1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Basic2.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Basic2.ts">
+        <entry file="file://$PROJECT_DIR$/Interface.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="330">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -43,6 +43,7 @@
       <list>
         <option value="$PROJECT_DIR$/Basic1.ts" />
         <option value="$PROJECT_DIR$/Basic2.ts" />
+        <option value="$PROJECT_DIR$/Interface.ts" />
       </list>
     </option>
   </component>
@@ -101,12 +102,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564045583610</updated>
-      <workItem from="1564045585013" duration="4987000" />
+      <workItem from="1564045585013" duration="5715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4987000" />
+    <option name="totallyTimeSpent" value="5715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -145,8 +146,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic2.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="369">
+          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
