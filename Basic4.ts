@@ -27,4 +27,4 @@ let persona:Persona = new Persona(27,1.69,'326598');
 
 let alumno:Alumno =new Alumno(27,1.69,'36521','12356');
 persona=alumno;
-alumno = persona;
+//alumno = persona;
